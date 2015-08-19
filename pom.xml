@@ -35,6 +35,11 @@
 			<id>dcc-release</id>
 			<url>http://seqwaremaven.oicr.on.ca/artifactory/dcc-release</url>
 		</repository>
+		<!-- DCC -->
+		<repository>
+			<id>dcc-dependencies</id>
+			<url>http://seqwaremaven.oicr.on.ca/artifactory/dcc-dependencies</url>
+		</repository>
 		<!-- Spring -->
 		<repository>
 			<id>spring-milestones</id>
