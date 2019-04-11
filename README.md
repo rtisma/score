@@ -2,6 +2,7 @@
 
 <p align="center">Secure Cloud Object Repository</p>
 
+
 <p align="center">Formerly known as ICGC Storage and currently used as the storage and transfer system for ICGC cloud based projects against S3 and Azure backends.</p>
 
 <p align="center"><a href="http://www.overture.bio/products/score" target="_blank"><img alt="General Availability" title="General Availability" src="http://www.overture.bio/img/progress-horizontal-GA.svg" width="320" /></a></p>
