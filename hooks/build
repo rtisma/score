@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $DOCKER_REPO == "overture/score" ]; then
+if [ $DOCKER_REPO == "rtisma1/score-client" ]; then
 	docker build --target client -f $DOCKERFILE_PATH -t $DOCKER_REPO:edge .
 else
 	docker build --target server -f $DOCKERFILE_PATH -t $DOCKER_REPO:$SOURCE_COMMIT .

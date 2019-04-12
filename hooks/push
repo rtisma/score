@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $DOCKER_REPO == "overture/score" ]; then
+if [ $DOCKER_REPO == "rtisma1/score-client" ]; then
 	echo "Pushing tag $DOCKER_REPO:edge"
 	docker push $DOCKER_REPO:edge
 else
